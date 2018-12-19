@@ -1,0 +1,6 @@
+d:\users\adi\documents\visual studio 2015\Projects\hockey\hockey\bin\Debug\hockey.exe.config
+d:\users\adi\documents\visual studio 2015\Projects\hockey\hockey\bin\Debug\hockey.exe
+d:\users\adi\documents\visual studio 2015\Projects\hockey\hockey\bin\Debug\hockey.pdb
+d:\users\adi\documents\visual studio 2015\Projects\hockey\hockey\obj\Debug\hockey.csprojResolveAssemblyReference.cache
+d:\users\adi\documents\visual studio 2015\Projects\hockey\hockey\obj\Debug\hockey.exe
+d:\users\adi\documents\visual studio 2015\Projects\hockey\hockey\obj\Debug\hockey.pdb
